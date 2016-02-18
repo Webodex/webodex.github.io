@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="41.328953mm"
+   height="48.888481mm"
+   viewBox="0 0 146.44118 173.22691"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="webodex-logo-dark.svg"
+   inkscape:export-filename="C:\Users\boris\Work\webodex.github.io\img\presentation\webodex-logo-small-card.png"
+   inkscape:export-xdpi="93.518959"
+   inkscape:export-ydpi="93.518959">
+  <title
+     id="title4161">Logo Webodex</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="35.90547"
+     inkscape:cy="57.778276"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4150"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="790"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo Webodex</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(44.575573,-796.03625)">
+    <rect
+       style="opacity:1;fill:#f30a49;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.77311277;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4144"
+       width="146.44119"
+       height="173.22691"
+       x="-44.575581"
+       y="796.03625" />
+    <g
+       id="g4146"
+       transform="matrix(0.81901064,0,0,0.81901064,14.983318,166.49534)">
+      <g
+         id="g4150">
+        <g
+           id="g4736"
+           transform="matrix(1.041905,0,0,1.041905,-0.69900623,-40.18628)">
+          <circle
+             r="20.616446"
+             cy="871.24054"
+             cx="16.680735"
+             id="path4138"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:12.20985508;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             id="path4144"
+             d="m -24.552156,882.78577 c 12.369867,41.23289 70.095912,41.23289 82.465778,0 L 33.173889,952.88168 16.680733,932.26524 0.18757729,952.88168 Z"
+             style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:12.20985508;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

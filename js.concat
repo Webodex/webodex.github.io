@@ -1,0 +1,23 @@
+// THIS file should be placed in project root
+
+// if true, concatenates the list of files when saving one of them or when saving this file
+concatOnSave = true;
+
+// the output path of the concatenated file, directories will be created if necessary
+output = js/webodex.min.js;
+
+// if true, minifies the concatenated file
+minify = true;
+
+// the list of files (paths relative to project root) to concatenate
+-js/bootstrap/util.js;
+-js/bootstrap/carousel.js;
+-js/bootstrap/collapse.js;
+-js/bootstrap/dropdown.js;
+-js/bootstrap/modal.js;
+-js/plugins/jquery.waypoints.js;
+-js/plugins/jquery.placeholder.js;
+-js/plugins/video.js;
+-js/plugins/jquery.vimeo.api.js;
+-js/plugins/chart.js;
+-js/webodex.js;

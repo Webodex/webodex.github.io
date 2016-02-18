@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.002712mm"
+   height="38.002712mm"
+   viewBox="0 0 134.65529 134.65529"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="webodex-logo-text-vertical.svg"
+   inkscape:export-filename="C:\Users\boris\Work\webodex.github.io\img\social\webodex-logo-googleplus.png"
+   inkscape:export-xdpi="167.09334"
+   inkscape:export-ydpi="167.09334">
+  <title
+     id="title4161">Logo Webodex</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-104.61801"
+     inkscape:cy="-27.561731"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4146"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="790"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo Webodex</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(44.575581,-889.60785)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.77311277;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4144"
+       width="134.65529"
+       height="134.65529"
+       x="-44.575581"
+       y="889.60785" />
+    <g
+       id="g4146"
+       transform="translate(18.649823,6.0720297)">
+      <g
+         id="g4150"
+         transform="matrix(0.50880065,0,0,0.50880065,-17.286658,485.48025)">
+        <circle
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0c3c78;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4138"
+           cx="42.037876"
+           cy="848.36218"
+           r="25" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f30a49;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -7.9621239,862.3622 c 15,50 84.9999999,50 99.9999999,0 l -30,85 -20,-25 -20,25 z"
+           id="path4144"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+      </g>
+      <g
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0c3c78;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text4146"
+         transform="matrix(0.58651174,0,0,0.58651174,-20.050946,414.60483)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:68.19983673px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0c3c78;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-47.770962"
+           y="995.98639"
+           id="text3347"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3349"
+             x="-47.770962"
+             y="995.98639"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.88738632px;font-family:Overpass;-inkscape-font-specification:'Overpass Bold';letter-spacing:-3.06899261px;fill:#0c3c78;fill-opacity:1">webodex</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

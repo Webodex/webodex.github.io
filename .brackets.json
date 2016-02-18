@@ -1,0 +1,17 @@
+{
+    "path": {
+        "scss/webodex.scss": {
+            "sass.enabled": true,
+            "sass.options": {
+                "outputDir": "../css/",
+                "imagePath": null,
+                "sourceComments": "map",
+                "outputStyle": "compressed"
+            }
+        }
+    },
+    "jscodehints.detectedExclusions": [
+        "C:/Users/bseremes/Work/webodex.github.io/js/webodex-imports.js",
+        "C:/Users/bseremes/Work/webodex.github.io/js/webodex.js"
+    ]
+}

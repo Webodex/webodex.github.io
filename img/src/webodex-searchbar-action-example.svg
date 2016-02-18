@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="208.83957mm"
+   height="28.222237mm"
+   viewBox="0 0 739.98273 100.00005"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="webodex-searchbar-action-example.svg"
+   inkscape:export-filename="C:\Users\bseremes\Work\webodex.github.io\img\presentation\webodex-searchbar-action-example.png"
+   inkscape:export-xdpi="90.00209"
+   inkscape:export-ydpi="90.00209">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="603.08001"
+     inkscape:cy="100.67203"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(180.36331,-625.06769)">
+    <rect
+       style="opacity:1;fill:#0c3c78;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4147"
+       width="100"
+       height="100"
+       x="459.61942"
+       y="625.06769" />
+    <path
+       id="path4138"
+       d="M 537.76584,696.12742 523.55117,684.0393 c -1.47023,-1.32395 -3.04171,-1.9278 -4.30939,-1.87154 3.35674,-3.93059 5.38206,-9.02763 5.38206,-14.601 0,-12.42941 -10.07404,-22.50345 -22.50348,-22.50345 -12.42941,0 -22.50345,10.07404 -22.50345,22.50345 0,12.42942 10.07404,22.50347 22.50345,22.50347 5.57338,0 10.6704,-2.02531 14.60102,-5.38208 -0.06,1.2677 0.54758,2.83918 1.87152,4.30941 l 12.08811,14.21469 c 2.07033,2.29911 5.44958,2.49414 7.51241,0.43131 2.06283,-2.06282 1.86779,-5.44583 -0.43133,-7.5124 z m -35.64548,-13.56208 c -8.28501,0 -15.00231,-6.7173 -15.00231,-15.00232 0,-8.28502 6.7173,-15.00232 15.00231,-15.00232 8.28503,0 15.00233,6.7173 15.00233,15.00232 0,8.28502 -6.7173,15.00232 -15.00233,15.00232 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0c3c78;stroke-width:0.9580121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4149"
+       width="739.02472"
+       height="99.041977"
+       x="-179.88431"
+       y="625.54675" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:47.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-161.6244"
+       y="692.74792"
+       id="text4151"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4153"
+         x="-161.6244"
+         y="692.74792">Réaliser un site web</tspan></text>
+  </g>
+</svg>
